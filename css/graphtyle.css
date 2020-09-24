@@ -9,6 +9,10 @@
     font-family: xx1;
 }
 
+html{
+    color: black;
+}
+
 body{
   background:url("../imgs/GRID.gif") top right;
     background-size: cover;
