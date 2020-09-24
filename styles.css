@@ -1,0 +1,45 @@
+@font-face {
+    src: url("fnt/ibmdos.ttf");
+    font-family: round;
+
+}
+
+ @font-face {
+     src: url("fnt/xx1.ttf");
+     font-family: xx1;
+ }
+
+html{
+   position: relative;
+    min-height: 100%;
+
+}
+
+body{
+    background:url("imgs/final.gif") top right no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+    position: absolute;
+    margin: 0;
+    overflow: hidden;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+
+}
+
+li:hover  a:hover p:hover{
+    font-size: 105%;
+    color: mediumspringgreen;
+}
+
+footer{
+    padding-right: 20px;
+    margin-right: 20px;
+    top: 93%;
+    position: fixed;
+
+    width: 100%;
+
+}
