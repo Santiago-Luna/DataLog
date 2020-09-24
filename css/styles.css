@@ -1,11 +1,11 @@
 @font-face {
-    src: url("fnt/ibmdos.ttf");
+    src: url("../fnt/ibmdos.ttf");
     font-family: round;
 
 }
 
  @font-face {
-     src: url("fnt/xx1.ttf");
+     src: url("../fnt/xx1.ttf");
      font-family: xx1;
  }
 
@@ -16,7 +16,7 @@ html{
 }
 
 body{
-    background:url("imgs/final.gif") top right no-repeat;
+    background:url("../imgs/final.gif") top right no-repeat;
     background-attachment: fixed;
     background-size: cover;
 

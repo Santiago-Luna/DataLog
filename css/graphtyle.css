@@ -1,16 +1,16 @@
 @font-face {
-    src: url("fnt/ibmdos.ttf");
+    src: url("../fnt/ibmdos.ttf");
     font-family: round;
 
 }
 
 @font-face {
-    src: url("fnt/xx1.ttf");
+    src: url("../fnt/xx1.ttf");
     font-family: xx1;
 }
 
 body{
-  background:url("imgs/GRID.gif") top right;
+  background:url("../imgs/GRID.gif") top right;
     background-size: cover;
     position: absolute;
     margin: 5px;
