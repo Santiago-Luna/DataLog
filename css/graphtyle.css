@@ -14,7 +14,7 @@ html{
 }
 
 body {
-background: url("../imgs/GRID.gif") top right;
+background-color: black;
  background-size: cover;
 position: absolute;
 margin: 5px;
