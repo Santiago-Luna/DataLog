@@ -14,6 +14,20 @@ html{
     min-height: 100%;
 
 }
+body.contact{
+    background:url("../imgs/logo.gif") top right no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+    position: absolute;
+    margin: 0;
+    overflow: hidden;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+
+
+}
 
 body{
     background:url("../imgs/final.gif") top right no-repeat;
@@ -43,3 +57,5 @@ footer{
     width: 100%;
 
 }
+
+
