@@ -13,21 +13,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/graphtyle.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+            <state relative-caret-position="199">
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/type/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="63" column="122" selection-start-line="63" selection-start-column="122" selection-end-line="63" selection-end-column="122" />
+            <state relative-caret-position="-104">
+              <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
               <folding>
+                <element signature="n#style#0;n#h1#0;n#a#0;n#header#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#strong#0;n#a#0;n#li#1;n#ul#0;n#main#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -71,8 +72,8 @@
         <option value="$PROJECT_DIR$/3d/index.html" />
         <option value="$PROJECT_DIR$/graphics/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/type/index.html" />
         <option value="$PROJECT_DIR$/css/graphtyle.css" />
+        <option value="$PROJECT_DIR$/type/index.html" />
       </list>
     </option>
   </component>
@@ -138,12 +139,12 @@
       <option name="presentableId" value="Default" />
       <updated>1600970225459</updated>
       <workItem from="1600970227060" duration="2763000" />
-      <workItem from="1600994482543" duration="4219000" />
+      <workItem from="1600994482543" duration="6704000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6982000" />
+    <option name="totallyTimeSpent" value="9467000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1386" height="788" extended-state="0" />
@@ -188,28 +189,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        <state relative-caret-position="425">
+          <caret line="43" column="31" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
           <folding>
             <element signature="n#style#0;n#p#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/type/index.html">
+    <entry file="file://$PROJECT_DIR$/css/graphtyle.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="63" column="122" selection-start-line="63" selection-start-column="122" selection-end-line="63" selection-end-column="122" />
-          <folding>
-            <element signature="n#style#0;n#strong#0;n#a#0;n#li#1;n#ul#0;n#main#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="199">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/graphtyle.css">
+    <entry file="file://$PROJECT_DIR$/type/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+        <state relative-caret-position="-104">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#a#0;n#header#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#strong#0;n#a#0;n#li#1;n#ul#0;n#main#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
