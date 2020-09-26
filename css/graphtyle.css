@@ -78,7 +78,7 @@ ul.breadcrumb li a:hover {
 
 .item{
 
-
+    background-color: black;
     width: 100%;
     height: auto;
     display:flex;
