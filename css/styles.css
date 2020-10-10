@@ -10,6 +10,7 @@
  }
 
 html{
+    color: black;
    position: relative;
     min-height: 100%;
 
@@ -30,7 +31,7 @@ body.contact{
 }
 
 body{
-    background:url("../imgs/final.gif") top right no-repeat;
+    background:url("../imgs/fc.gif") top right no-repeat;
     background-attachment: fixed;
     background-size: cover;
 
