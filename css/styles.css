@@ -62,7 +62,7 @@ body.contact{
 }
 
 body{
-    background:url("../imgs/fc.gif") top right no-repeat;
+    background:url("../imgs/vrg.gif") top right no-repeat;
     background-attachment: fixed;
     background-size: cover;
 
@@ -76,8 +76,8 @@ body{
 
 
 li:hover  a:hover p:hover{
-    font-size: 105%;
-    color: mediumspringgreen;
+    font-size: 120%;
+    color: black;
 }
 
 footer{
