@@ -62,8 +62,7 @@ body.contact{
 }
 
 body{
-    background:url("../imgs/gif2022.gif") top right no-repeat;
-    background-attachment: fixed;
+    background: url("../imgs/gif2022.gif") no-repeat fixed top right;
     background-size: cover;
 
     position: absolute;
