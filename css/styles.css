@@ -62,7 +62,7 @@ body.contact{
 }
 
 body{
-    background: url("../imgs/gif2022.gif") no-repeat fixed top right;
+    background: url("../imgs/aaa.gif") no-repeat fixed top right;
     background-size: cover;
 
     position: absolute;
@@ -73,10 +73,12 @@ body{
     width: 100%;
 }
 
-
+p{
+    color: black;
+}
 li:hover  a:hover p:hover{
     font-size: 120%;
-    color: black;
+    color: mediumslateblue;
 }
 
 footer{
