@@ -73,9 +73,6 @@ body{
     width: 100%;
 }
 
-p{
-    color: black;
-}
 li:hover  a:hover p:hover{
     font-size: 120%;
     color: mediumslateblue;
