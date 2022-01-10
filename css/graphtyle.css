@@ -8,10 +8,7 @@
     src: url("../fnt/xx1.ttf");
     font-family: xx1;
 }
-@font-face {
-    src: url("../fnt/round.ttf");
-    font-family: round;
-}
+
 
 html{
     color: black;
@@ -98,7 +95,7 @@ ul.breadcrumb li+li:before {
     text-decoration: none;
 }
 ul.breadcrumb li a:hover {
-    color:mediumslateblue;
+    color:#3aff90;
     text-decoration: none;
 }
 .grid{
@@ -172,7 +169,7 @@ img:hover{
     position: center;
     font-family: round,sans-serif;
     font-size: 14px;
-    color: white;
+    color: moccasin;
 
 
 
